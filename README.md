@@ -4,4 +4,4 @@
 
 A aplicação permite que o usuário insira vários clientes de um restaurante, ou paciente de um consultorio de nutrição, e os mostre em uma tabela. O usuário - o cliente de um restaurante que usa esta aplicação, ou um proficional nutricionista que busca uma dieta para seus pacientes considerando as calorias dos alimentos, - tem a possibilidade de adicionar o nome, a sua opção de comida e sua quantidade em gramas (g), a sua opção de bebida e sua quantidade em mili litros (ml); Como retorno, é feita uma ordenação por ordem de cadastro e devolvido na tabela a quantidade de calorias total - as somas calóricas do alimento e bebida escolhidos no momento do cadastro - assim como as opções escolhidas inicialmente no cadastro. A Figura abaixo mostra a tela inicial da aplicação.
 
-![](project_layout.)
+![](project_layout.jpg)
