@@ -10,13 +10,13 @@ O gerenciador de pacientes/clientes também conta com uma aba para mostrar os ca
 
 ![](table_data.jpg)
 
-Ficha Técnica:  ;
+Ficha Técnica:  
 
 Instituto Federal da Paraíba  ;
 Aluno: Everton Júnior Da Silva Arruda ;
 Professor: Patric Lacouth ;
 Curso: Engenharia Elétrica  ;
 
-Descrição:
+Descrição:  
 Projeto desenvolvido em QT Creator para a disciplica de Técnicas de Programação.
 
